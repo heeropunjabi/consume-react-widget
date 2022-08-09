@@ -9,7 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "react-widget-poc": "git://github.com/heeropunjabi/react-widget-poc.git#master",
+    "react-widget-poc": "https://github.com/heeropunjabi/react-widget-poc",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

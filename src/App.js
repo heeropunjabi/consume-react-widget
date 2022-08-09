@@ -1,4 +1,4 @@
-import CryptoList from "react-widget-poc/src/components/CryptoList";
+import Demo, { CryptoList, Demo2 } from "react-widget-poc";
 
 import logo from "./logo.svg";
 
@@ -12,7 +12,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <Demo />
         <CryptoList />
+        <Demo2 />
       </header>
     </div>
   );
